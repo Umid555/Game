@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\gameCount\bin\Debug\gameCount.exe.config
+C:\Users\ACER\source\repos\gameCount\bin\Debug\gameCount.exe
+C:\Users\ACER\source\repos\gameCount\bin\Debug\gameCount.pdb
+C:\Users\ACER\source\repos\gameCount\obj\Debug\gameCount.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\gameCount\obj\Debug\gameCount.Game.resources
+C:\Users\ACER\source\repos\gameCount\obj\Debug\gameCount.Properties.Resources.resources
+C:\Users\ACER\source\repos\gameCount\obj\Debug\gameCount.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\gameCount\obj\Debug\gameCount.exe
+C:\Users\ACER\source\repos\gameCount\obj\Debug\gameCount.pdb
